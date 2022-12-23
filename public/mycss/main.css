@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;0,700;0,900;1,300&display=swap");
+
+body {
+    background: #fcf9f9;
+    font-family: "Roboto", sans-serif;
+}
+
+.navigasi_saya {
+    background: ##fefefe;
+}
+
+.alert_webcam {
+    display: none;
+    transition: all 0.5s ease-in-out;
+}
+
+.margin_create_bottom {
+    margin-bottom: 200px !important ;
+}
